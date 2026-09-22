@@ -7,12 +7,12 @@ This is a practical guide to creating a simple map in QGIS. It explains how to g
 By the end of this guide, you will have an example georeferenced historical map with historical locations plotted and labelled, ready to export as a publication-ready image. You can substitute your own research data once you are familiar with the workflow, to produce your own historical map. 
 
 Before you begin, you will need:
-1) to install QGIS (https://qgis.org/download/)
-2) basic familiarity with Excel spreadsheets
-3) a scanned historical map
-4) a list of the locations you will map
+1) To install QGIS (https://qgis.org/download/)
+2) A basic familiarity with Excel spreadsheets
+3) A scanned historical map
+4) A list of the locations you will map
 
-Files used in this guide
+Files used in this guide:
 The accompanying files contain a historical map and a dataset of historical locations. You will use these files throughout the guide to create the example map.
 
 Workflow
