@@ -1,5 +1,6 @@
 # qgis-basics-historians
-Getting started with QGIS: creating a basic historical map
+
+**Getting started with QGIS: creating a basic historical map**
 
 This is a practical guide to creating a simple map in QGIS. It explains how to georeference a historical map, adding historical location data, and producing a finished map for publication. It is intended for historians who are new to QGIS and want to turn historical data into a clear, publishable map. 
 
