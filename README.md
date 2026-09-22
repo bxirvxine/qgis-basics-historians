@@ -13,6 +13,7 @@ Before you begin, you will need:
 4) A list of the locations you will map
 
 Files used in this guide:
+
 The accompanying files contain a historical map and a dataset of historical locations. You will use these files throughout the guide to create the example map.
 
 Workflow
