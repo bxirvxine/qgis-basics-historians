@@ -14,11 +14,11 @@ Before you begin, you will need:
 
 Files used in this guide:
 
-The accompanying files contain a historical map and a dataset of historical locations. You will use these files throughout the guide to create the example map.
+The accompanying files contain a dataset of historical locations. You will use these files throughout the guide to create the example map. 
 
 Workflow
 1) Install and use QuickOSM to obtain reference geographical data.
-2) Add a historical map to QGIS and georeference it against modern geographical data.
+2) Install open source reference geographical data. 
 3) Import historical location data from a CSV file.
 4) Join additional information to the location data.
 5) Style and label the map.
