@@ -1,4 +1,4 @@
-Creating the historical map
+**Creating the historical map**
 
 This section covers the creation of a map outline map data from OpenStreetMap and importing the historical data points into the map.
 
