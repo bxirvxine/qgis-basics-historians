@@ -1,4 +1,4 @@
-Exporting the map
+**Exporting the map**
 
 This section covers exporting the completed map from QGIS as a pdf or an image file.
 
