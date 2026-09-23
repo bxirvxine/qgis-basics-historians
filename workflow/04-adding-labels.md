@@ -1,3 +1,5 @@
+**Annotating the map**
+
 This section covers adding labels to the historical locations using information from the location dataset.
 
 1) Open the layer properties
