@@ -7,8 +7,8 @@ This is a practical guide to creating a simple map in QGIS. It explains how to g
 This guide walks through the end-to-end workflow, following one example dataset through the full process. You can substitute your own research data into this workflow to produce your own historical map. 
 
 Prerequisites:
-1) Install QGIS long-term release (LTR) at https://qgis.org/download/
-2) A basic familiarity with Excel spreadsheet
+1) Historical data points.
+2) A basic familiarity with Excel spreadsheet.
 
 Learning outcomes:
 1) Set up QGIS with a basemap to build on.
