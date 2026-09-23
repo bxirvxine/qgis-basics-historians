@@ -1,5 +1,5 @@
-Preparing the data for the map
-
+**Preparing the data for the map
+**
 This section covers the preparation of historical location data before importing it into QGIS.
 
 1) Create a spreadsheet
