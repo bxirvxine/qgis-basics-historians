@@ -2,7 +2,7 @@ This section covers adding labels to the historical locations using information 
 
 1) Open the layer properties
 
-In the Layers panel, right-click the historical location layer and select Properties. Select the Labels tab. Change the label mode from No Labels to Single Labels.
+In the Layers panel, right-click the historical location layer and select Properties, then select the Labels tab. Change the label mode from No Labels to Single Labels.
 
 2) Select the label field
 
@@ -10,9 +10,7 @@ Under Value, select the Name field. The location names will now appear as labels
 
 3) Add additional information to the label
 
-To display the year alongside the location name, in the format Name (Year), use a label expression rather than selecting the Name field alone.
-
-Click the expression button (ε) next to the label value and enter:
+To display the year alongside the location name, in the format Name (Year), use a label expression. Click the expression button (ε) next to the label value and enter:
 
 "Name" || ' (' || "Year" || ')'
 
