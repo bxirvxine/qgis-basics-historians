@@ -12,7 +12,7 @@ Each location requires geographic coordinates which will be the location display
 
 ![Excel spreadsheet containing the location data](../images/excel-data.png)
 
-4) Save the spreadsheet
+3) Save the spreadsheet
 
 Save the spreadsheet as both a standard Excel file and as a csv file. Keep the Excel file as the master copy of the dataset. QGIS uses the coordinates in your dataset to place each location on the map. Keeping an Excel file as the master dataset also makes it easier to update the data without losing the original version.
 
