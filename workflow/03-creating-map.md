@@ -6,10 +6,10 @@ This section covers the creation of an administrative boundary layer from OpenSt
 
 Click on Vector → QuickOSM and then choose Quick Query. 
 
-<ol type="i">
-  <li>In the <strong>Key</strong> field, enter <code>boundary</code>.</li>
-  <li>In the <strong>Value</strong> field, enter <code>administrative</code>.</li>
-  <li>In the <strong>In</strong> field, select the area covered by the map.</li>
+<ol type="a">
+  <li>In the Key field, enter boundary.</li>
+  <li>In the Value field, enter administrative.</li>
+  <li>In the In field, enter the area covered by the map.</li>
 </ol>
 
 QuickOSM will download the available administrative boundary data from OpenStreetMap and add it to the QGIS project.
