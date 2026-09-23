@@ -10,7 +10,7 @@ Click on Vector → QuickOSM and then choose Quick Query.
 
 QuickOSM will download the available administrative boundary data from OpenStreetMap and add it to the QGIS project.
 
-![A query format to download OSM data](..images/borders.png)
+![A query format to download OSM data](../images/borders.png)
 
 2) Select the relevant boundaries
 
@@ -20,7 +20,7 @@ Right-click on layer to open the attribute table to check the administrative lev
 
 If necessary, use the editing mode by clicking on the yellow pencil to remove unwanted attributes.
 
-![The attribute table](..images/attribute-table.png)
+![The attribute table](../images/attribute-table.png)
 
 3) Save the administrative boundary layer
 
@@ -38,7 +38,7 @@ Add the historical data points to the map by importing the csv data. Go to Layer
 
 Click on the three dots to the right of the File name line and select the CSV file. and set the X field to Longitude and the Y field to Latitude and then click Add.
 
-![Adding a Delimited Text Layer](..images/adding-data.png)
+![Adding a Delimited Text Layer](../images/adding-data.png)
 
 The locations should now appear as points on the map.
 
