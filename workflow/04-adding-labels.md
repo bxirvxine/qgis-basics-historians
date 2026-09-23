@@ -20,8 +20,8 @@ To display the year alongside the location name, in the format Name (Year), use 
 
 4) Edit the appearance of the labels
 
-Update the text and formatting of the labels as required. The Placement tab allows you to alter the positioning of the text in relation to the point marker. 
+Use the Text and Formatting options to adjust the appearance of the labels. The Placement tab allows you to alter the position of the text in relation to the point marker. 
 
 5) Edit the appearance of the data points.
 
-Within the layer properties, under Symbology you can alter the marker of the data points. 
+In Layer Properties, select Symbology to change the appearance of the point markers.
