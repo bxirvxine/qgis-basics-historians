@@ -12,7 +12,7 @@ Use OpenStreetMap (QuickOSM) as the base map for locating and displaying geograp
 
 Search for QuickOSM, select the plugin, and click Install Plugin.
 
-![Installing the QuickOSM plugin(../images/Quickosm.png)
+![Installing the QuickOSM plugin](../images/Quickosm.png)
 
 Once installed, QuickOSM will be available under the Vector menu. This basemap provides a wide range of contemporary geographic and administrative reference data: roads, settlements, rivers, and borders, among other features. 
 
