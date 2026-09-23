@@ -1,0 +1,19 @@
+This section covers adding labels to the historical locations using information from the location dataset.
+
+1) Open the layer properties
+
+In the Layers panel, right-click the historical location layer and select Properties. Select the Labels tab. Change the label setting from No Labels to Single Labels.
+
+2) Select the label field
+
+Under Value, select the Name field. The location names will now appear as labels on the map.
+
+3) 
+
+![Adding labels to the data points](..images/labels.png)
+
+4) Edit the appearance of the data points
+
+Update the text and formatting of the labels as required. The Placement tab allows you to alter the positioning of the text in relation to the point marker. 
+
+Under Symbology you can alter the marker of the data points. 
