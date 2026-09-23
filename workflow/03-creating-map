@@ -1,6 +1,8 @@
-This section covers importing the historical location data into QGIS and adding administrative boundaries from OpenStreetMap.
+Creating the historical map
 
-1) Add administrative boundaries
+This section covers the creation of a map outline map data from OpenStreetMap and importing the historical data points into the map.
+
+1) Create administrative boundaries
 
 Click on Vector → QuickOSM and then choose Quick Query. 
 
@@ -14,9 +16,7 @@ QuickOSM will download the available administrative boundary data from OpenStree
 
 2) Select the relevant boundaries
 
-Review the administrative boundary layer and identify the boundaries required for the map.
-
-Right-click on layer to open the attribute table to check the administrative level and name of each boundary. Use these attributes to identify the appropriate boundaries rather than selecting boundaries based only on their appearance on the map.
+Review the administrative boundary layer and identify the boundaries required for the map. Right-click on layer to open the attribute table to check the administrative level and name of each boundary. Use these attributes to identify the appropriate boundaries rather than selecting boundaries based only on their appearance on the map.
 
 If necessary, use the editing mode by clicking on the yellow pencil to remove unwanted attributes.
 
