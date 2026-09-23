@@ -1,0 +1,25 @@
+Installing and setting up QGIS
+
+This section covers the software and base map required for the workflow. Complete these steps before proceeding to the data preparation stage.
+
+1) Install QGIS
+
+Download QGIS Long-Term Release (LTR) from the QGIS website. The LTR version is recommended because it provides a stable environment without requiring regular updates. 
+
+2) Set up a basemap 
+
+We will use OpenStreetMap (QuickOSM) as the base map for locating and displaying geographic features. 
+
+In QGIS, open Plugins → Manage and Install Plugins.
+
+Search for QuickOSM, select the plugin, and click Install Plugin.
+
+[Insert screenshot showing the OSM base map in QGIS.]
+
+Once installed, QuickOSM will be available under the Plugins menu. This basemap provides contemporary geographic reference data: roads, settlements, rivers, borders, and other features. 
+
+3) Create a QGIS project
+
+From the Project menu, create a new QGIS project and save it in a dedicated folder.
+
+
