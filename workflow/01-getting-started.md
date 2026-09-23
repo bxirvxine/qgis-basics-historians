@@ -1,4 +1,4 @@
-Installing and setting up QGIS
+**Installing and setting up QGIS**
 
 This section covers the software and base map required for creating a historical map. 
 
