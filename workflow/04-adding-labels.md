@@ -1,6 +1,6 @@
 **Annotating the map**
 
-This section covers adding labels to the historical locations using information from the location dataset.
+This section covers adding labels to the historical locations using information from the location dataset. Each historical location will be labelled with its name and year, and the labels and point markers formatted for readability.
 
 1) Open the layer properties
 
