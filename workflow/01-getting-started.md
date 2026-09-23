@@ -8,7 +8,7 @@ Download QGIS Long-Term Release (LTR) from the QGIS website. The LTR version is 
 
 2) Set up a basemap 
 
-Use OpenStreetMap (QuickOSM) as the base map for locating and displaying geographic features. To set up the base map, select Plugins → Manage and Install Plugins.
+Use OpenStreetMap (QuickOSM) as the base map for locating and displaying geographic features. The QuickOSM plug-in allows you to retrieve OpenStreetMap data directly within QGIS, to add geographic reference information to a project. To set up the base map, select Plugins → Manage and Install Plugins.
 
 Search for QuickOSM, select the plugin, and click Install Plugin.
 
