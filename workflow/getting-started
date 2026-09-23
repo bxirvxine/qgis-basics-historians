@@ -14,8 +14,6 @@ In QGIS, open Plugins → Manage and Install Plugins.
 
 Search for QuickOSM, select the plugin, and click Install Plugin.
 
-![QuickOSM plugin](../images/Quickosm.png)
-
 Once installed, QuickOSM will be available under the Plugins menu. This basemap provides contemporary geographic reference data: roads, settlements, rivers, borders, and other features. 
 
 3) Create a QGIS project
