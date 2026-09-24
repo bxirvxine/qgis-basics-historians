@@ -1,6 +1,6 @@
 **Creating the historical map**
 
-This section covers the creation of an administrative boundary layer from OpenStreetMap and importing the historical data points into the map. The administrative boundaries provide a contemporary geographic reference for the historical locations, while the historical dataset provides the locations you want to map.
+This section explains how to create base map using data from OpenStreetMap and import the historical data points into the map. OpenStreetMap provides contemporary geographic reference data for the base map, while the historical dataset provides the locations you want to map.
 
 1) Create administrative boundaries
 
@@ -28,9 +28,7 @@ If necessary, use the editing mode to remove unwanted boundary features by click
 
 Save the administrative boundary layer as a local GeoPackage layer so that it can be stored with the project and reused. In the Layers panel, right-click the administrative boundary layer and select Export → Save Features As...
 
-Under Format, select GeoPackage. Choose your project folder as the file location and give the GeoPackage a clear name, such as administrative-boundaries.gpkg. Under Layer name, enter a descriptive name for the layer, such as admin_boundaries.
-
-The administrative boundary layer is now saved as a local layer within the project.
+Under Format, select GeoPackage. Choose your project folder as the file location and give the GeoPackage a clear name, such as administrative-boundaries.gpkg. Under Layer name, enter a descriptive name for the layer, such as admin_boundaries. The administrative boundary layer is now saved in the project folder and can be used as your base map.
 
 4) Add the historical data
 
