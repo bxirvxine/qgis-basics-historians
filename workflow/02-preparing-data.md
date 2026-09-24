@@ -14,7 +14,7 @@ Each location requires geographic coordinates to determine where it will appear 
 
 3) Save the spreadsheet
 
-Save the spreadsheet as both a standard Excel file and as a csv file. Keep the Excel file as the master copy of the dataset. QGIS uses the coordinates in your dataset to place each location on the map. Keeping an Excel file as the master dataset also makes it easier to update the data without losing the original version.
+Save the spreadsheet as both a standard Excel file and as a CSV file. Keep the Excel file as the master copy of the dataset. QGIS uses the coordinates in your dataset to place each location on the map. Keeping an Excel file as the master dataset also makes it easier to update the data without losing the original version.
 
 To add or remove locations in the future, update the Excel master file and then save an updated CSV file, replacing the previous version. Refresh the layer in QGIS using the Refresh button when required.
 
