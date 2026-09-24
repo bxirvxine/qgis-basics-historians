@@ -1,6 +1,6 @@
 **Annotating the map**
 
-This section covers adding labels to the historical locations using information from the location dataset. Each historical location will be labelled with its name and year, and the labels and point markers formatted for readability.
+This section explains how to label the historical locations with their name and year, and how to adjust the appearance of the labels and point markers for readability.
 
 1) Open the layer properties
 
@@ -14,7 +14,9 @@ Under Value, select the Name field. The location names will now appear as labels
 
 To display the year alongside the location name, in the format Name (Year), use a label expression. Click the expression button (ε) next to the label value and enter:
 
-"Name" || ' (' || "Year" || ')'
+"Name" || ' (' || "Opened" || ')'
+
+The fields entered in the label expression must exactly match the fields in the csv dataset.
 
 ![Adding labels to the data points](../images/labels.png)
 
