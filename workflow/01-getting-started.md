@@ -1,10 +1,10 @@
 **Installing and setting up QGIS**
 
-This section covers installing the software and plugins required for creating a historical map, and how to set up a new project. 
+This section explains how to install the software and plugins required for creating a historical map, and how to set up a new project. 
 
 1) Install QGIS
 
-Download QGIS Long-Term Release (LTR) from the QGIS website. The LTR version is recommended for historians because it provides a stable environment without requiring regular updates. 
+Download QGIS Long-Term Release (LTR) from the QGIS website. The LTR version provides a stable environment without requiring regular updates. 
 
 2) Install the QuickOSM plugin 
 
@@ -20,4 +20,4 @@ Once installed, QuickOSM will be available under the Vector menu.
 
 From the Project menu, create a new QGIS project and save it in a dedicated folder. Setting up the project first gives you a consistent workspace for the map and its supporting data.
 
-Keep the QGIS file and the data for the map together in the same project folder. This makes it easier to move or share the project later.
+Keep the QGIS project file and the data for the map together in the same folder. This makes it easier to move or share the project later.
