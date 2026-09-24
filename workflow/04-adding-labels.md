@@ -8,13 +8,13 @@ In the Layers panel, right-click the historical location layer and select Proper
 
 2) Select the label field
 
-Under Value, select the Name field. The location names will now appear as labels on the map.
+Under Value, select the Station field. The location names will now appear as labels on the map.
 
 3) Add additional information to the label
 
 To display the year alongside the location name, in the format Name (Year), use a label expression. Click the expression button (ε) next to the label value and enter:
 
-"Name" || ' (' || "Opened" || ')'
+"Station" || ' (' || "Opened" || ')'
 
 The fields entered in the label expression must exactly match the fields in the csv dataset.
 
