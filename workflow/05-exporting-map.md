@@ -1,6 +1,6 @@
 **Exporting the map**
 
-This section covers exporting the completed map from QGIS as a PDF or an image file. 
+This section explains how to create a print layout containing the completed map, and then to export the map as a PDF or an image file. 
 
 1) Create a print layout
 
