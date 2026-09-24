@@ -18,7 +18,7 @@ Use Add Item in the Print Layout toolbar to add elements such as a title, legend
 
 4) Adjustments to the map
 
-If you make changes to the map in the main QGIS workspace after adding it to the print layout, refresh the map item to display those changes. This is also required after updating the CSV data.
+If you make changes to the map in the main QGIS workspace after adding it to the print layout, use the Refresh button to display those changes. This is also required after updating the CSV data.
 
 5) Export the map
 
